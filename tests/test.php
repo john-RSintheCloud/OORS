@@ -1,5 +1,5 @@
 <?php
-
+//phpinfo(); die;
 //echo 'hello world';
 
 require_once "../application/bootstrap.php";
